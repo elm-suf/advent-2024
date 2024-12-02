@@ -11,10 +11,10 @@
         "time": 1.385059
       },
       "part2": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "27732508",
         "attempts": [],
-        "time": null
+        "time": 0.64355
       }
     },
     {
